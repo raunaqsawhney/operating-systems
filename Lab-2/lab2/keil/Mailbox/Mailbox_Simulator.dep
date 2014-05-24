@@ -1,0 +1,6 @@
+Dependencies for Project 'Mailbox', Target 'Simulator': (DO NOT MODIFY !)
+F (.\Mailbox.c)(0x527AE114)(-c --cpu ARM7TDMI -D__RTX -g -O3 --apcs=interwork -I C:\Software\Keil\ARM\RV31\INC -I C:\Software\Keil\ARM\CMSIS\Include -I C:\Software\Keil\ARM\Inc\Philips -o ".\Obj\mailbox.o" --depend ".\Obj\mailbox.d")
+F (.\Serial.c)(0x51C84D86)(-c --cpu ARM7TDMI -D__RTX -g -O3 --apcs=interwork -I C:\Software\Keil\ARM\RV31\INC -I C:\Software\Keil\ARM\CMSIS\Include -I C:\Software\Keil\ARM\Inc\Philips -o ".\Obj\serial.o" --depend ".\Obj\serial.d")
+F (.\RTX_Config.c)(0x51C84D86)(-c --cpu ARM7TDMI -D__RTX -g -O3 --apcs=interwork -I C:\Software\Keil\ARM\RV31\INC -I C:\Software\Keil\ARM\CMSIS\Include -I C:\Software\Keil\ARM\Inc\Philips -o ".\Obj\rtx_config.o" --depend ".\Obj\rtx_config.d")
+F (.\Startup.s)(0x51C84D86)(--cpu ARM7TDMI --pd "__RTX SETA 1" -g --apcs=interwork -I C:\Software\Keil\ARM\RV31\INC -I C:\Software\Keil\ARM\CMSIS\Include -I C:\Software\Keil\ARM\Inc\Philips --list ".\Lst\Startup.lst" --xref -o ".\Obj\Startup.o" --depend ".\Obj\Startup.d")
+F (.\Abstract.txt)(0x51C84D86)()

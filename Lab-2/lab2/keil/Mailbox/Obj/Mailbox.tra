@@ -1,0 +1,23 @@
+*** Creating Trace Output File '.\Obj\Mailbox.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\mailbox.o"'
+### List of Objects: adding '".\obj\serial.o"'
+### List of Objects: adding '".\obj\rtx_config.o"'
+### List of Objects: adding '".\obj\startup.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI ".\obj\mailbox.o" ".\obj\serial.o" ".\obj\rtx_config.o" ".\obj\startup.o" 
+C:\Software\Keil\ARM\RV31\LIB\RTX_ARM_L.LIB --strict --scatter ".\Obj\Mailbox.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Lst\Mailbox.map" -o .\Obj\Mailbox.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Obj\Mailbox.axf'
+### ADS-LD Command File: '.\Obj\Mailbox.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Obj\Mailbox.lnp', Handle=0x00000940
+### Writing '.lnp' file
+### ADS-LD Command file '.\Obj\Mailbox.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

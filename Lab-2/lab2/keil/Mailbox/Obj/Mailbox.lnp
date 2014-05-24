@@ -1,0 +1,5 @@
+--cpu ARM7TDMI ".\obj\mailbox.o" ".\obj\serial.o" ".\obj\rtx_config.o" ".\obj\startup.o" 
+C:\Software\Keil\ARM\RV31\LIB\RTX_ARM_L.LIB --strict --scatter ".\Obj\Mailbox.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Lst\Mailbox.map" -o .\Obj\Mailbox.axf
